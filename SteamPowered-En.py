@@ -86,7 +86,6 @@ def discountPrices():
 
     input("\nPress Enter For Continue...")
 
-
 def searchGame():
     os.system("cls")
     showbanner()
@@ -127,7 +126,6 @@ def searchGame():
     Write.Print(f"Founded Games {count}",Colors.green_to_red,0.001)
 
     input("\nPress Enter For Continue...")
-
 
 def topSellers():
     os.system("cls")
